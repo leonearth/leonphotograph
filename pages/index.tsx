@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import type { MotionProps } from 'framer-motion';
 import type { HTMLAttributes } from 'react';
 
-const years = ['2021', '2022', '2023'];
+const years = ['2022', '2023', '2024','2025'];
 
 // Type-safe cast for Framer Motion v7
 const MotionDiv = motion.div as React.FC<
